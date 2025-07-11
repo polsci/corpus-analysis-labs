@@ -1,6 +1,6 @@
 # DIGI405 Corpus Analysis Lab Notebooks  
 
-Authors: Geoff Ford, Chris Thomson, and Karin Stahel.
+Authors: Geoff Ford, Christopher Thomson, and Karin Stahel.
 
 The notebooks in this repository have been developed for DIGI405 labs introducing corpus analysis. 
 
