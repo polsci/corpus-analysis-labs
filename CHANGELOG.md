@@ -1,6 +1,6 @@
 # Change log
 
-## [1.0.0] - 2025-07-11 - Initial Release
+## [1.0.0] - 2025-07-13 - Initial Release
 
 ### Added:
 
