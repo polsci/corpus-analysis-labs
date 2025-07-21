@@ -1,5 +1,13 @@
 # Change log
 
+## [1.0.2] - 2025-07-21 - improve concordance lab notebook wording
+
+### Changed:
+
+- provide guidance on Task 4 regarding quantitative claims about concordances
+- clarify wording on Task 3 for semesters where Introduce Yourself dataset is 
+released after labs
+
 ## [1.0.1] - 2025-07-17 - add import for get_nltk_corpus_sources
 
 ### Fixed:
