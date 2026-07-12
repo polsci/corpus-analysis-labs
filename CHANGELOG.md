@@ -1,5 +1,11 @@
 # Change log
 
+## [1.0.3] - 2026-07-13 - update to paths
+
+### Changed:
+
+- updated paths to source data and corpora for new DIGI JupyterHub instance
+
 ## [1.0.2] - 2025-07-21 - improve concordance lab notebook wording
 
 ### Changed:

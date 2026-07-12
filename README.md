@@ -8,7 +8,7 @@ Changes and release version numbers are documented in the [CHANGELOG](CHANGELOG.
 
 ## Corpora
 
-Corpora are available to DIGI405 students. Links to corpora that are publicly available will be added here soon. 
+Corpora are available to DIGI405 students. Links to corpora that are publicly available may be added here in future. 
 
 ## Installation  
 
